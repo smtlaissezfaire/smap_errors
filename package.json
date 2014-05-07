@@ -1,6 +1,6 @@
 {
   "name": "smap_errors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Scott Taylor <scott@learnup.com>",
   "description": "Map stack traces from an minified to a un-minified source",
   "contributors": [
@@ -26,6 +26,6 @@
     "sprintf": "*"
   },
   "bin": {
-    "smap_error": "./bin/smap_errors"
+    "smap_errors": "./bin/smap_errors"
   }
 }
