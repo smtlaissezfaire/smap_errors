@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var smap_errors = require('./../lib/smap_errors');
+smap_errors.main();
+

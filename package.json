@@ -1,0 +1,28 @@
+{
+  "name": "smap_errors",
+  "version": "0.0.1",
+  "author": "Scott Taylor <scott@learnup.com>",
+  "description": "Map stack traces from an minified to a unminified source",
+  "contributors": [
+    {
+      "name": "Scott Taylor",
+      "email": "scott@learnup.com"
+    },
+    {
+      "name": "Andrew Pariser",
+      "email": "parser@learnup.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/golearnup/strawberry.git"
+  },
+  "dependencies" : {
+    "underscore": "*",
+    "async": "*",
+    "request": "*",
+    "commander": "*",
+    "source-map": "*",
+    "sprintf": "*"
+  }
+}
