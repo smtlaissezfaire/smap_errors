@@ -24,5 +24,8 @@
     "commander": "*",
     "source-map": "*",
     "sprintf": "*"
+  },
+  "bin": {
+    "smap_error": "./bin/smap_errors"
   }
 }
