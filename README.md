@@ -22,7 +22,7 @@
 
 ## Install
 
-    $ npm install smap_errors
+    $ npm install -g smap_errors
 
 ## Example
 
