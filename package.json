@@ -1,12 +1,12 @@
 {
   "name": "smap_errors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Scott Taylor <scott@learnup.com>",
   "description": "Map stack traces from an minified to a un-minified source",
   "contributors": [
     {
       "name": "Scott Taylor",
-      "email": "scott@learnup.com"
+      "email": "scott@railsnewbie.com"
     },
     {
       "name": "Andrew Pariser",
